@@ -1,0 +1,5 @@
+target_overlap,measured_overlap,crop_width,candidates,inliers,err_vs_ref_px
+40,21.8,1000,612,565,0.0
+15,14.9,920,413,375,0.59
+10,9.9,868,253,225,0.76
+5,5.1,824,89,70,0.92

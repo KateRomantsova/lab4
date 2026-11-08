@@ -1,0 +1,3 @@
+method,inliers,mean_err_px
+own_RANSAC,616,0.551
+cv2_RANSAC,609,0.515
